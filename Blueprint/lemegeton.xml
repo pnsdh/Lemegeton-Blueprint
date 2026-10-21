@@ -6,6 +6,7 @@
 				<Opcode Name="StatusEffectList" Id="212" />
 				<Opcode Name="StatusEffectList2" Id="903" />
 				<Opcode Name="StatusEffectList3" Id="654" />
+				<Opcode Name="BossStatusEffectList" Id="332" />
 				<Opcode Name="Ability1" Id="867" />
 				<Opcode Name="Ability8" Id="610" />
 				<Opcode Name="Ability16" Id="665" />
@@ -26,6 +27,7 @@
 				<Opcode Name="StatusEffectList" Id="718" />
 				<Opcode Name="StatusEffectList2" Id="539" />
 				<Opcode Name="StatusEffectList3" Id="151" />
+				<Opcode Name="BossStatusEffectList" Id="923" />
 				<Opcode Name="Ability1" Id="189" />
 				<Opcode Name="Ability8" Id="319" />
 				<Opcode Name="Ability16" Id="912" />
@@ -46,6 +48,7 @@
 				<Opcode Name="StatusEffectList" Id="718" />
 				<Opcode Name="StatusEffectList2" Id="539" />
 				<Opcode Name="StatusEffectList3" Id="151" />
+				<Opcode Name="BossStatusEffectList" Id="923" />
 				<Opcode Name="Ability1" Id="189" />
 				<Opcode Name="Ability8" Id="319" />
 				<Opcode Name="Ability16" Id="912" />
